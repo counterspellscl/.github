@@ -1,2 +1,2 @@
 # Counterspell Santiago
-![logo grande](./title.png)
+![logo grande](../title.png)
